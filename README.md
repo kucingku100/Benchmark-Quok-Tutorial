@@ -3,7 +3,7 @@
 https://quok.it/gensyn  
 Then check your email to receive your API Key.
 
-2. Open a new terminal and run this command:
+2. Open a new terminal and run this command
 
 ```bash
 sudo install -d -m 0755 /etc/apt/keyrings && \
